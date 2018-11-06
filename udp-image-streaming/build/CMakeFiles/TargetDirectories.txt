@@ -1,0 +1,4 @@
+/home/user/sample-apps/udp-image-streaming/build/CMakeFiles/rebuild_cache.dir
+/home/user/sample-apps/udp-image-streaming/build/CMakeFiles/edit_cache.dir
+/home/user/sample-apps/udp-image-streaming/build/CMakeFiles/client.dir
+/home/user/sample-apps/udp-image-streaming/build/CMakeFiles/server.dir
